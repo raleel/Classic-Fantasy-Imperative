@@ -190,7 +190,7 @@ The following table summarizes the information needed for each of the above meth
 
 ##### Racial Characteristics Table
 
-| _Race_ | _ **Dwarf** _ | _ **Elf** _ | _ **Gnome** _ |
+| _Race_ | _**Dwarf**_ | _**Elf**_ | _**Gnome**_ |
 | --- | --- | --- | --- |
 | _STR_ | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
 | _CON_ | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
@@ -324,21 +324,14 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 | _Species_ | _Feet_ | _Metres_ |
  |
 | --- | --- | --- | --- |
-| _Dwarf_ | 15 | 4.5 |
- |
+| _Dwarf_ | 15 | 4.5 | |
 | --- | --- | --- | --- |
-| _Elf_ | 20 | 6 |
- |
-| _Gnome_ | 15 | 4.5 |
- |
-| _Half-Elf_ | 20 | 6 |
- |
-| _Half-Orc_ | 20 | 6 |
- |
-| _Halfling_ | 15 | 4.5 |
- |
-| _Human_ | 20 | 6 |
- |
+| _Elf_ | 20 | 6 | |
+| _Gnome_ | 15 | 4.5 | |
+| _Half-Elf_ | 20 | 6 | |
+| _Half-Orc_ | 20 | 6 | |
+| _Halfling_ | 15 | 4.5 | |
+| _Human_ | 20 | 6 | |
 
 #### Hit Points
 
@@ -374,7 +367,6 @@ Note that the basic percentages for some skills will be modified by both culture
 | _Skill_ | _Basic Percentage_ |
 | --- | --- |
 | _Athletics_ | STR+DEX |
-| --- | --- |
 | _Boating_ | STR+CON |
 | _Brawn_ | STR+SIZ |
 | _Conceal_ | DEX+POW |
@@ -488,7 +480,7 @@ Certain Classes may have either more skills to choose from or may choose more sk
 
 #### A Note on Class Abilities and Rank
 
-Keep in mind that all Classes require a skill level of at least _ **40% in any five Class skills** _ to utilize that Class's special Abilities or to cast spells. You are considered competent in a skill at 50% or higher. So, to qualify for Rank 1, the character must possess any five Class skills at 40% or higher. Rank 2 requires any five Class skills at 70%, Rank 3 requires any four Class skills at 90%, and so on.
+Keep in mind that all Classes require a skill level of at least _**40% in any five Class skills**_ to utilize that Class's special Abilities or to cast spells. You are considered competent in a skill at 50% or higher. So, to qualify for Rank 1, the character must possess any five Class skills at 40% or higher. Rank 2 requires any five Class skills at 70%, Rank 3 requires any four Class skills at 90%, and so on.
 
 A character may choose to start at Rank 0 if they do not have sufficient skill levels and attain Rank 1 in play if they desire, but to be able to use or cast spells, these prerequisites must be met.
 
@@ -1081,7 +1073,7 @@ Clerics are proficient with all types of armor (light and heavy), and with all s
 
 All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, no other Abilities.
 
-| _ **Rank** _ | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
+| _**Rank**_ | **Title** | **Advancement** | **Spells in Memory** | **Hit Points** | **Luck Points** | **Action Points** |
 | --- | --- | --- | --- | --- | --- | --- |
 | _0_ | Lay Member | - | Rank 0: INT/4 | 0 | +0 | +0 |
 | _1_ | Initiate | Any 5 Class skills at 40% | Rank 0: INT/4, +1 Rank 1: INT/4 | 0 | +0 | +0 |
@@ -1492,10 +1484,8 @@ Total ENC: 7½ Things
 | Read Magic | Secure Portal | Slow |
 | Repair | Shield | Water Breathing (Air Breathing) |
 | Tidy | Sleep |
-|
- | Web |
-|
- | Spider Climb |
+| | Web |
+| | Spider Climb |
 
 
 ### Rogue
@@ -1540,7 +1530,7 @@ Rogues are proficient with all types of armor (light and heavy), and with all sh
 
 All rogues are rated by Rank, which is a rating of power and skill. You may choose either the rogue or thief titles, depending on whichever is more relevant to your relationship with the thieves' guild. When a specific degree of mastery is gained in a limited number of Class skills, rogues may increase their Rank, as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Scoundrel or Burglar with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Scamp or Cutpurse but no other Abilities.
 
-| _ **Rank** _ | **Title (Rogue)** | **Title (Thief)** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
+| _**Rank**_ | **Title (Rogue)** | **Title (Thief)** | **Advancement** | **Hit Points** | **Luck Points** | **Action Points** |
 | --- | --- | --- | --- | --- | --- | --- |
 | _0_ | Scamp | Cutpurse | - | 0 | +0 | +0 |
 | _1_ | Scoundrel | Burglar | Any 5 Class skills at 40% | 0 | +0 | +0 |
@@ -1671,7 +1661,7 @@ This section only details what Passions represent and their default values. How 
 
 ### Passion Table
 
-| _ **Object of Passion** _ | **Starting Percentage** |
+| _**Object of Passion**_ | **Starting Percentage** |
 | --- | --- |
 | _A person, in a romantic or familial context_ | POW+CHA |
 | _An organization or group of people_ | POW+INT |
@@ -1708,7 +1698,7 @@ The Deepening and Waning table shows how much the Passion changes.
 
 ##### Deepening and Waning Table
 
-| _ **Depth of Passion** _ | **Passion Modified by** |
+| _**Depth of Passion**_ | **Passion Modified by** |
 | --- | --- |
 | _Weak_ | 1d10 |
 | _Moderate_ | 1d10+5 |
@@ -1753,7 +1743,7 @@ Classic Fantasy Imperative uses a series of grades to determine how a skill is m
 
 ##### Difficulty Grade Table
 
-| _ **Difficulty Grade** _ | **Skill Modifier** | **Simplified Skill Modifier** |
+| _**Difficulty Grade**_ | **Skill Modifier** | **Simplified Skill Modifier** |
 | --- | --- | --- |
 | _Automatic_ | No need to roll | No need to roll |
 | _Very Easy_ | Double the skill value | +40% |
@@ -1958,7 +1948,7 @@ This skill covers the speaking and comprehension of languages other than the cha
 
 ##### Linguistic Fluency Table
 
-| _ **Language %** _ | **Conversational Fluency** |
+| _**Language%**_ | **Conversational Fluency** |
 | --- | --- |
 | _01-25%_ | Can understand only a few simple words, cannot phrase sentences, or read |
 | _26-50%_ | Can understand and communicate in fragmentary, simple sentences, such as "Where is Temple?" or "How much food?" Can read at an elementary school level |
@@ -2046,7 +2036,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 
 ##### Opposed Roll Examples Table
 
-| _ **Activity** _ | **Opposed Skill Examples** |
+| _**Activity**_ | **Opposed Skill Examples** |
 | --- | --- |
 | _Bargaining/Haggling_ | Commerce vs. Commerce, Influence vs. Commerce |
 | _Chasing/Racing_ | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
@@ -2068,7 +2058,7 @@ A Differential Roll is determined in the following manner: Both participants rol
 
 ##### Differential Roll Results Table
 
-| _ **Result of Rolls** _ | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
+| _**Result of Rolls**_ | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
 | --- | --- | --- | --- | --- |
 | _Protagonist Critical_ | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
 | _Protagonist Success_ | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |
@@ -2091,7 +2081,7 @@ The standard currency for Classic Fantasy Imperative consists of the Copper, Sil
 
 ### Standard Exchange Rates Table
 
-| _ **Coin** _ | **CP** | **SP** | **GP** | **PP** |
+| _**Coin**_ | **CP** | **SP** | **GP** | **PP** |
 | --- | --- | --- | --- | --- |
 | _Copper Piece (CP)_ | 1 | 1/10 | 1/100 | 1/1000 |
 | _Silver Piece (SP)_ | 10 | 1 | 1/10 | 1/50 |
@@ -2166,7 +2156,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 
 ### Basic Melee Weapons
 
-| _ **Basic Weapon** _ | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| _**Basic Weapon**_ | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Club_ | 1H | 1d6 | M | Bash, Stun Location | 4/4 | — | 5 SP |
 | _Dagger \*_ | 1H | 1d4+1 | S | Bleed, Impale | 6/8 | Thrown | 3 GP |
@@ -2186,7 +2176,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 
 ### Martial Melee Weapons
 
-| _ **Weapon** _ | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| _**Weapon**_ | **Hands** | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Ball & chain_ | 1H | 1d6+1 | M | Bash, Entangle, Stun Location | 6/8 | Flexible | 25 GP |
 | _Bastard sword_ | 1H 2H | 1d8 1d10 | M, M | Bleed, Impale, +Sunder (2H) | 6/12 | — | 25 GP |
@@ -2226,7 +2216,7 @@ All weapons are governed by a series of Characteristics which are as follows:
 
 ### Shields
 
-| _ **Shield** _ | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
+| _**Shield**_ | **Damage** | **Size** | **Combat Effects** | **AP/HP** | **Traits** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
 | _Buckler_ | 1d3 | M | Bash, Stun Location | 6/9 | Ranged Parry; Passive Block 2 locations | 5 GP |
 | _Heater\*_ | 1d4 | L | Bash, Stun Location | 6/12 | Ranged Parry; Passive Block 3 locations | 15 GP |
@@ -2263,7 +2253,7 @@ Ranged Weapons have similar characteristics to Melee Weapons, although there are
 
 ### Basic Ranged Weapons
 
-| _ **Weapon** _ | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
+| _**Weapon**_ | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Crossbow, heavy\*\*_ | 1d10 | N | H | 60/450/900 | 4 | Impale, Sunder | S | 4/8 | 35 GP |
 | _Crossbow, light_ | 1d8 | N | L | 60/300/600 | 3 | Impale | S | 4/5 | 15 GP |
@@ -2279,7 +2269,7 @@ Ranged Weapons have similar characteristics to Melee Weapons, although there are
 
 ### Martial Ranged Weapons
 
-| _ **Weapon** _ | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
+| _**Weapon**_ | **Dmg** | **Dmg Mod** | **Force** | **Range** | **Load** | **Combat Effects** | **Imp. Size** | **AP/HP** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Bow, long_ | 1d8 | Y | H | 45/375/750 | 2 | Impale | S | 4/7 | 20 GP |
 | _Bow, short_ | 1d6 | Y | L | 45/300/600 | 2 | Impale | S | 4/4 | 7.5 GP |
@@ -2300,7 +2290,7 @@ Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bol
 
 ##### Ranged Weapon Ammunition
 
-| _ **Ammo Type** _ | **Description/Game Effects** | **Cost** |
+| _**Ammo Type**_ | **Description/Game Effects** | **Cost** |
 | --- | --- | --- |
 | _Arrows (20)_ | — | 5 SP |
 | _Crossbow bolts (20)_ | — | 5 SP |
@@ -2323,14 +2313,14 @@ Each type of armor is defined by the following qualities:
 
 ### Armor Table
 
-| _ **Light Armor** _ | **AP** | **GP Cost per Location** |
+| _**Light Armor**_ | **AP** | **GP Cost per Location** |
 | --- | --- | --- |
 | _Furs or Hides_ | 1 | 2 |
 | _Leather, Padded, or Quilted_ | 2 | 3 |
 | _Studded Leather or Ring Mail_ | 3 | 10 |
 | _Brigandine, Scale, or Laminated_ | 4 | 30 |
 
-| _ **Heavy Armor** _ | **AP** | **GP Cost per Location** |
+| _**Heavy Armor**_ | **AP** | **GP Cost per Location** |
 | --- | --- | --- |
 | _Chain Mail_ | 5 | 40 |
 | _Splint Mail or Banded Mail_ | 6 | 60 |
@@ -2343,7 +2333,7 @@ Every city, as well as most large towns, will have at least one shop dedicated t
 
 ### Common Magic Items Table
 
-| _ **Magic Item** _ | **Chance of Availability** | **Description/Game Effects** | **Cost** |
+| _**Magic Item**_ | **Chance of Availability** | **Description/Game Effects** | **Cost** |
 | --- | --- | --- | --- |
 | _Healing Balm_ | 100% chance of 1d4+2 | First Aid rolls are 1 grade easier and natural recovery is sped up as well, increasing the character's Healing Rate by 1 in each location it is applied. A single wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1 GP |
 | _Potion of Dispel Magic_ | 80% chance of 1d3+1 | Negates one magical effect on the imbiber with an Intensity less than 1d4+1, cumulative. | 50 GP |
@@ -2361,7 +2351,7 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 
 ### Tools Table
 
-| _ **Item** _ | **Description/Game Effects** | **Cost** |
+| _**Item**_ | **Description/Game Effects** | **Cost** |
 | --- | --- | --- |
 | _Backpack_ | Holds up to 10 Things at no additional weight. | 5 SP |
 | _Bedroll_ | A blanket and cushioned pad for sleeping. Typically, tightly rolled and tied off with cord for easy transport. | 1 SP |
@@ -2417,7 +2407,7 @@ What specific debilitating effects arise as part of the Aging process are up to 
 
 ##### Age Bands
 
-| _ **Age Band** _ | **Human** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Endurance and Willpower Roll Grade** |
+| _**Age Band**_ | **Human** | **Dwarf** | **Elf** | **Gnome** | **½ Elf** | **½ Orc** | **Halfling** | **Endurance and Willpower Roll Grade** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Early Middle Age_ | 40-49 | 150-199 | 500-624 | 300-379 | 50-99 | 30-39 | 70-89 | Easy |
 | _Middle Age_ | 50-59 | 200-249 | 625-749 | 380-459 | 100-149 | 40-49 | 90-109 | Standard |
@@ -2428,7 +2418,7 @@ What specific debilitating effects arise as part of the Aging process are up to 
 
 ##### Aging Effects Table
 
-| _ **1d6** _ | **Physical Aging (Failed Endurance)** | **Mental Aging (Failed Willpower)** |
+| _**1d6**_ | **Physical Aging (Failed Endurance)** | **Mental Aging (Failed Willpower)** |
 | --- | --- | --- |
 | _1-2_ | STR | INT |
 | _3-4_ | CON | POW |
@@ -2531,8 +2521,7 @@ Note that the table represents Fatigue recovery for physical exertion. Fatigue r
 
 ##### Fatigue Levels
 
-|
- | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
+| | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
 | --- | --- | --- | --- | --- | --- |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
@@ -2589,12 +2578,12 @@ This is the amount of time taken when the Games Master is narrating to the playe
 
 A Short Rest represents a period of about 15 minutes where the adventurers stop to catch their breath, doing nothing more strenuous than reading, eating, drinking, praying, and tending to wounds. The party decides how long to rest, and then performs the relevant 15-minute actions, with each player performing one before moving on to the next. There is no limit to the number of Short Rests that the party may take over the course of a day, and typically several rest actions are performed after setting camp, as well as in the morning before setting out. Each 15-minute Rest Action is detailed below and can be taken more than once unless stated otherwise.
 
-- _ **Eat a Ration:** _ This 15-minute Rest Action may be taken only once per day as rations are tracked as a daily item and removes **any** one level of Fatigue no greater than Exhausted, as well as quells any hunger. Characters may reduce their Fatigue by a further level after eating if not greater than Winded, due to this being a non-strenuous activity.
-- _ **Pray to a Deity or Study spell book:** _Regain 1 Magic Point per 15-minute Rest Action spent in prayer or study. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
-- _ **Tend to wounds:** _ Spend a 15-minute Rest Action using the First Aid skill, or four 15-minute rest actions (an hour) using the Healing skill.
-- _ **Cast one or more spells:** _ Any number of spells may be cast to heal or buff the members of the party during a 15-minute Rest Action, limited to available Magic Points.
-- _ **Prepare a new spell:** _ Following a sleep period of at least 8 hours, a spellcaster may usea 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed on page XX under Memorizing Spells.
-- _ **Dither:** _ This is the default 15-minute Rest Action unless another Action is chosen. The character simply wastes 15 minutes doing nothing useful. This Rest Action is typically performed if other members of the party are still performing rest actions and you have nothing to do. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
+- _**Eat a Ration**_: This 15-minute Rest Action may be taken only once per day as rations are tracked as a daily item and removes **any** one level of Fatigue no greater than Exhausted, as well as quells any hunger. Characters may reduce their Fatigue by a further level after eating if not greater than Winded, due to this being a non-strenuous activity.
+- _**Pray to a Deity or Study spell book**_: Regain 1 Magic Point per 15-minute Rest Action spent in prayer or study. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
+- _**Tend to wounds**_: Spend a 15-minute Rest Action using the First Aid skill, or four 15-minute rest actions (an hour) using the Healing skill.
+- _**Cast one or more spells**_: Any number of spells may be cast to heal or buff the members of the party during a 15-minute Rest Action, limited to available Magic Points.
+- _**Prepare a new spell**_: Following a sleep period of at least 8 hours, a spellcaster may usea 15-minute Rest Action to memorize, or forget, an Arcane or Divine spell, subject to the restrictions detailed on page XX under Memorizing Spells.
+- _**Dither**_: This is the default 15-minute Rest Action unless another Action is chosen. The character simply wastes 15 minutes doing nothing useful. This Rest Action is typically performed if other members of the party are still performing rest actions and you have nothing to do. Characters may reduce their Fatigue by one level if not greater than Winded due to this being a non-strenuous activity.
 
 ## Hit Locations
 
@@ -3130,140 +3119,64 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 | Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
 | --- | --- | --- | --- | --- | --- |
-| Accidental Injury |
- | X |
- | Attacker Fumbles |
- |
-| Arise |
- | X |
- |
- |
- |
-| Bash | X |
- | Shields or Bludgeoning |
- |
- |
-| Bleed | X |
- | Cutting Weapons |
- |
- |
-| Blind Opponent |
- | X |
- | Defender Criticals |
- |
-| Bypass Armor | X |
- |
- | Attacker Criticals | X |
-| Choose Location | X |
- |
- | See Description |
- |
-| Circumvent Parry | X |
- |
- | Attacker Criticals |
- |
-| Damage Weapon | X | X |
- |
- |
- |
-| Disarm Opponent | X | X |
- |
- |
- |
-| Enhance Parry |
- | X |
- | Defender Criticals |
- |
-| Entangle | X | X | Entangling Weapons |
- |
- |
-| Force Failure | X | X |
- | Opponent Fumbles |
- |
-| Grip | X |
- | Unarmed |
- |
- |
-| Impale | X |
- | Impaling Weapons |
- |
- |
-| Sharpshooter | X |
- | Ranged Weapons |
- |
- |
-| Maximize Damage | X |
- |
- | Attacker Criticals | X |
-| Prepare Counter |
- | X |
- |
- | X |
-| Rapid Reload | X |
- |
- |
- | X |
-| Scar Foe | X | X |
- |
- |
- |
-| Select Target |
- | X |
- | Attacker Fumbles |
- |
-| Slip Free |
- | X |
- | Defender Criticals |
- |
-| Stun Location | X |
- | Bludgeoning Weapons |
- |
- |
-| Sunder | X |
- | Two Handed Weapons |
- |
- |
-| Trip Opponent | X | X |
- |
- |
- |
-| Withdraw |
- | X |
- |
- |
- |
+| Accidental Injury | | X | | Attacker Fumbles | |
+| Arise | | X | | | |
+| Bash | X | | Shields or Bludgeoning | | |
+| Bleed | X | | Cutting Weapons | | |
+| Blind Opponent | | X | | Defender Criticals | |
+| Bypass Armor | X | | | Attacker Criticals | X |
+| Choose Location | X | | | See Description | |
+| Circumvent Parry | X | | | Attacker Criticals | |
+| Damage Weapon | X | X | | | |
+| Disarm Opponent | X | X | | | |
+| Enhance Parry | | X | | Defender Criticals | |
+| Entangle | X | X | Entangling Weapons | | |
+| Force Failure | X | X | | Opponent Fumbles | |
+| Grip | X | | Unarmed | | |
+| Impale | X | | Impaling Weapons | | |
+| Sharpshooter | X | | Ranged Weapons | | |
+| Maximize Damage | X | | | Attacker Criticals | X |
+| Prepare Counter | | X | | | X |
+| Rapid Reload | X | | | | X |
+| Scar Foe | X | X | | | |
+| Select Target | | X | | Attacker Fumbles | |
+| Slip Free | | X | | Defender Criticals | |
+| Stun Location | X | | Bludgeoning Weapons | | |
+| Sunder | X | | Two Handed Weapons | | |
+| Trip Opponent | X | X | | | |
+| Withdraw | | X | | | |
 
 ### Special Effect Descriptions
 
-_ **Accidental Injury** _: The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
+_**Accidental Injury**_: The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
 
-_ **Arise:** _ Allows the defender to use a momentary opening to roll back up to their feet.
+_**Arise**_: Allows the defender to use a momentary opening to roll back up to their feet.
 
-_ **Bash** _: The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over.
+_**Bash**_: The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over.
 
-_ **Bleed:** _ The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, page XX.
+_**Bleed**_: The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, page XX.
 
-_ **Blind Opponent:** _ On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
+_**Blind Opponent**_: On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
-_ **Bypass Armor:** _ On a Critical the attacker finds a gap in the defender's natural or worn armor. If the defender is wearing armor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purpose of this effect, physical protection gained from magic is considered as being worn armor.
+_**Bypass Armor**_: On a Critical the attacker finds a gap in the defender's natural or worn armor. If the defender is wearing armor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purpose of this effect, physical protection gained from magic is considered as being worn armor.
 
-_ **Choose Location:** _ When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged Weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker.
+_**Choose Location**_: When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged Weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker.
 
-_ **Circumvent Parry:** _ On a Critical the attacker may completely bypass an otherwise successful Parry.
+_**Circumvent Parry**_: On a Critical the attacker may completely bypass an otherwise successful Parry.
 
-_ **Damage Weapon** _: Permits the character to damage his opponent's weapon as part of an attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own Armor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks.
+_**Damage Weapon**_: Permits the character to damage his opponent's weapon as part of an attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own Armor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks.
 
-_ **Disarm Opponent:** _ The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier x3 feet. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
+_**Disarm Opponent**_: The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier x3 feet. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
 
-_ **Enhance Parry:** _ On a Critical the defender manages to deflect the entire force of an attack, no matter the Size of his weapon.
+_**Enhance Parry**_: On a Critical the defender manages to deflect the entire force of an attack, no matter the Size of his weapon.
 
-_ **Entangle:** _ Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
+_**Entangle**_: Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
 
-_ **Force Failure:** _ Used when an opponent Fumbles, the character can combine Force Failure with any other Special Effect which requires an Opposed Roll to work. Force Failure causes the opponent to Fail his resistance roll by default – thereby automatically be disarmed, tripped, and so forth.
+_**Force Failure**_: Used when an opponent Fumbles, the character can combine Force Failure with any other Special Effect which requires an Opposed Roll to work. Force Failure causes the opponent to Fail his resistance roll by default – thereby automatically be disarmed, tripped, and so forth.
 
-_ **Grip:** _ Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
+_**Grip**_: Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
 
-_ **Impale:** _ Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
+_**Impale**_: Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
 
 ##### Impale Effects Table
 
@@ -3276,27 +3189,27 @@ _ **Impale:** _ Roll weapon damage twice, with the attacker choosing which of th
 | 41-50 | No Effect | No Effect | No Effect | Hard | Formidable |
 | Each +10 | Follow table progression |
 
-_ **Sharpshooter:** _ Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has an effect on what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
+_**Sharpshooter**_: Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has an effect on what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
 
-_ **Maximize Damage** _: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximize Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
+_**Maximize Damage**_: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximize Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
 
-_ **Prepare Counter:** _ The defender reads the patterns of his foe and prepares a counter against a specific Special Effect (which should be noted down in secret). If his opponent attempts to inflict the chosen Special Effect upon him during the fight, the defender instantly substitutes the attacker's effect with one of his own, which succeeds automatically.
+_**Prepare Counter**_: The defender reads the patterns of his foe and prepares a counter against a specific Special Effect (which should be noted down in secret). If his opponent attempts to inflict the chosen Special Effect upon him during the fight, the defender instantly substitutes the attacker's effect with one of his own, which succeeds automatically.
 
-_ **Rapid Reload:** _ When using a Ranged Weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked.
+_**Rapid Reload**_: When using a Ranged Weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked.
 
-_ **Scar Foe:** _ The combatant inflicts his opponent with a scar that will be the talk of all for the rest of his or her life - such as an almost-severed-throat, or the letter 'Z' artfully inscribed across the chest.
+_**Scar Foe**_: The combatant inflicts his opponent with a scar that will be the talk of all for the rest of his or her life - such as an almost-severed-throat, or the letter 'Z' artfully inscribed across the chest.
 
-_ **Select Target:** _ When an attacker Fumbles, the defender may maneuver or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
+_**Select Target**_: When an attacker Fumbles, the defender may maneuver or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
 
-_ **Slip Free:** _ On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
+_**Slip Free**_: On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
 
-_ **Stun Location:** _ The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
+_**Stun Location**_: The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
 
-_ **Sunder** _: The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for Parrying or magic, is applied against the Armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the AP value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck.
+_**Sunder**_: The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for Parrying or magic, is applied against the Armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the AP value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck.
 
-_ **Trip Opponent** _: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier.
+_**Trip Opponent**_: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier.
 
-_ **Withdraw:** _ The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
+_**Withdraw**_: The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
 
 ## Close Combat
 
@@ -3633,8 +3546,7 @@ No spell may have its final cost reduced below 1 Magic Point.
 
 ##### Magic Point Reduction Matrix
 
-|
- | Spell's Rank |
+| | Spell's Rank |
 | --- | --- |
 | Caster's Rank | 1 | 2 | 3 | 4 | 5 |
 | 1 | 0 | - | - | - | - |
@@ -3813,7 +3725,7 @@ The difficulty applied to the skill roll is dependent upon the difference betwee
 
 ##### Scroll Casting Difficulty
 
-| _ **Difference** _ | **Modifier** |
+| _**Difference**_ | **Modifier** |
 | --- | --- |
 | _Spell is of the caster's Rank or lower_ | Spell may be cast with no skill roll |
 | _Spell is 1 Rank higher than the caster_ | Spell may be cast with a successful skill roll |
@@ -5467,28 +5379,10 @@ Magic Tricks are a great form of entertainment among the common folk, downtrodde
 
 When the magic-user casts this spell, two micro-meteors per level of Intensity streak from the outstretched hand. The meteors arc toward their target, impacting on a downward trajectory, leaving a trail of sparks and cinders in their wake. Upon impact, they detonate in multiple fiery explosions around the target point. The first meteor always strikes the targeted location, while any additional meteors strike randomly around it, each with an explosive radius of 30 feet. To determine where they hit, roll 1d8 for the direction.
 
-|
-## **4**
- |
-## **5**
- |
-## **6**
- |
+| **4** | **5** | **6** |
 | --- | --- | --- |
-|
-## **3**
- |
-## **X**
- |
-## **7**
- |
-|
-## **2**
- |
-## **1**
- |
-## **8**
- |
+| **3** | **X** | **7** |
+| **2** | **1** | **8** |
 
 Each meteor does 1d10 points of fire damage to those in the Area of Effect. However, due to the radius of each explosion, many will overlap, doing additional damage to those unfortunate enough to get caught by them. The damage rolls are combined and applied to each of the target's Hit Locations, with worn armor offering no protection, but magical Armor Points or a creature's natural armor reduce damage as normal.
 
@@ -5603,8 +5497,7 @@ The following personal spells, those which only affect the caster, will benefit 
 | Detect Evil | Protection from Evil |
 | Detect Invisibility | Read Magic |
 | Detect Magic | Tongues |
-| Glamour |
- |
+| Glamour | |
 
 The Permanency spell may also be used to make the following spells, which are cast on other creatures, objects, or areas, permanent. Spells marked with as asterisk may only be made permanent on an object or area.
 
@@ -5614,8 +5507,7 @@ The Permanency spell may also be used to make the following spells, which are ca
 | Dancing Lights\* | Magic Mouth \* |
 | Fear | Wall of Fire\* |
 | Invisibility | Web \* |
-| Polish \* |
- |
+| Polish \* | |
 
 ## Pet
 
@@ -6015,33 +5907,20 @@ Roll on the following table to determine the new form.
 | --- | --- |
 | 01-20 | Human |
 | 21-60 | Demi-Human |
-|
- | 01-20: Dwarf |
-|
- | 21-40: Elf |
-|
- | 41-60: Gnome |
-|
- | 61-80: Half-Elf |
-|
- | 81-00: Halfling |
+| | 01-20: Dwarf |
+| | 21-40: Elf |
+| | 41-60: Gnome |
+| | 61-80: Half-Elf |
+| | 81-00: Halfling |
 | 61-95 | Humanoid/Monster |
-|
- | 01-10: Bugbear |
-|
- | 11-26: Gnoll |
-|
- | 27-42: Goblin |
-|
- | 43-58: Hobgoblin |
-|
- | 59-74: Kobold |
-|
- | 75-90: Orc |
-|
- | 91-95: Ogre |
-|
- | 96-00: Troll |
+| | 01-10: Bugbear |
+| | 11-26: Gnoll |
+| | 27-42: Goblin |
+| | 43-58: Hobgoblin |
+| | 59-74: Kobold |
+| | 75-90: Orc |
+| | 91-95: Ogre |
+| | 96-00: Troll |
 | 96-00 | Other, GM's Option |
 
 ## Remove Curse (Bestow Curse)
@@ -6923,13 +6802,10 @@ Imperial to Metric Estimated Conversion Table
 
 | Imperial | Metric | Common Uses, Examples, and Battlemat Conversions |
 | --- | --- | --- |
-| 1foot | 30cm |
- |
-| 3feet | 1meter |
- |
+| 1foot | 30cm | |
+| 3feet | 1meter | |
 | 5feet | 1.5m | 1 battlemat square |
-| 7feet | 2m |
- |
+| 7feet | 2m | |
 | 10feet | 3m | 2 battlemat squares |
 | 15feet | 4m | 3battlematsquares;dwarf,gnome, and halfling |
 | 20feet | 6m | 4battlematsquares;human,elf, half-elf, and half-orc |
@@ -6941,91 +6817,51 @@ Imperial to Metric Estimated Conversion Table
 | 60feet | 18m | 12 battlemat squares; typicalInfravision |
 | 65feet | 20m | 13 battlemat squares |
 | 100feet | 30m | 20 battlemat squares |
-| 120feet | 36m |
- |
-| 150feet | 46m |
- |
-| 180feet | 55m |
- |
-| 200feet | 60m |
- |
-| 250feet | 75m |
- |
-| 300feet | 90m |
- |
-| 330feet | 100m |
- |
-| 360feet | 110m |
- |
-| 500feet | 150m |
- |
-| 1000feet | 300m |
- |
-| 1200feet | 360m |
- |
-| 1320feet(¼mile) | 400m |
- |
-| 0.5miles | 1kilometer |
- |
-| 1mile | 1.5km |
- |
-| 3miles | 5km |
- |
-| 6miles | 10km |
- |
-| 10miles | 15km |
- |
-| 12miles | 20km |
- |
-| 20miles | 30km |
- |
-| 25miles | 40km |
- |
-| 2.2pounds | 1kilogram |
- |
+| 120feet | 36m | |
+| 150feet | 46m | |
+| 180feet | 55m | |
+| 200feet | 60m | |
+| 250feet | 75m | |
+| 300feet | 90m | |
+| 330feet | 100m | |
+| 360feet | 110m | |
+| 500feet | 150m | |
+| 1000feet | 300m | |
+| 1200feet | 360m | |
+| 1320feet(¼mile) | 400m | |
+| 0.5miles | 1kilometer | |
+| 1mile | 1.5km | |
+| 3miles | 5km | |
+| 6miles | 10km | |
+| 10miles | 15km | |
+| 12miles | 20km | |
+| 20miles | 30km | |
+| 25miles | 40km | |
+| 2.2pounds | 1kilogram | |
 
 **Temperature Table Benchmarks**
 
-| Fahrenheit | Celsius |
- |
+| Fahrenheit | Celsius | |
 | --- | --- | --- |
-| -22.0 ºF | -30 ºC |
- |
-| -11.2 ºF | -25 ºC |
- |
-| -2.2 ºF | -20 ºC |
- |
-| 5.0 ºF | -15 ºC |
- |
-| 14.0 ºF | -10 ºC |
- |
-| 23.0 ºF | -5 ºC |
- |
+| -22.0 ºF | -30 ºC | |
+| -11.2 ºF | -25 ºC | |
+| -2.2 ºF | -20 ºC | |
+| 5.0 ºF | -15 ºC | |
+| 14.0 ºF | -10 ºC | |
+| 23.0 ºF | -5 ºC | |
 | 32.0 ºF | 0 ºC | Freezing point of water |
-| 41.0 ºF | 5 ºC |
- |
-| 50.0 ºF | 10 ºC |
- |
-| 59.0 ºF | 15 ºC |
- |
-| 68.0 ºF | 20 ºC |
- |
-| 77.0 ºF | 25 ºC |
- |
-| 86.0 ºF | 30 ºC |
- |
-| 104.0 ºF | 40 ºC |
- |
-| 122.0 ºF | 50 ºC |
- |
-| 140.0 ºF | 60 ºC |
- |
-| 158.0 ºF | 70 ºC |
- |
-| 176.0 ºF | 80 ºC |
- |
-| 194.0 ºF | 90 ºC |
- |
+| 41.0 ºF | 5 ºC | |
+| 50.0 ºF | 10 ºC | |
+| 59.0 ºF | 15 ºC | |
+| 68.0 ºF | 20 ºC | |
+| 77.0 ºF | 25 ºC | |
+| 86.0 ºF | 30 ºC | |
+| 104.0 ºF | 40 ºC ||
+| 122.0 ºF | 50 ºC | |
+| 140.0 ºF | 60 ºC | |
+| 158.0 ºF | 70 ºC | |
+| 176.0 ºF | 80 ºC | |
+| 194.0 ºF | 90 ºC | |
 | 212.0 ºF | 100 ºC | Boiling point of water |
 
 **Wind Table**
@@ -7034,17 +6870,11 @@ Imperial to Metric Estimated Conversion Table
 | --- | --- | --- | --- |
 | 0-10 | Calm | None | None |
 | 11-20 | Moderate Breeze | None | None |
-| --- | --- | --- | --- |
 | 21-30 | Strong Breeze | None | Two Thirds |
-| --- | --- | --- | --- |
 | 31-40 | Light Gale | Hard | Two Thirds |
-| --- | --- | --- | --- |
 | 41-50 | Moderate Gale | Hard | Half |
-| --- | --- | --- | --- |
 | 51-60 | Strong Gale | Formidable | Half |
-| --- | --- | --- | --- |
 | 60+ | Storm/Hurricane | Formidable | One Third |
-| --- | --- | --- | --- |
 
 Wind, especially very strong winds, can have an adverse effect on activity. A wind's Strength (STR) is expressed in miles per hour of velocity. Its effect on physical skills – those involving STR or DEX – is detailed in the Skill column; effects on Movement Rate in the Movement Rate column (for example, a Light Gale of STR 40 reduces human walking speed to two thirds.
 
@@ -7054,22 +6884,12 @@ Temperature Table
 | --- | --- | --- |
 | Below 2 | Glacial | Seek Immediate Warmth |
 | 3-14 | Freezing | 15 Minutes |
-| --- | --- | --- |
 | 13-32 | Cold | Hourly |
-| --- | --- | --- |
 | 33-50 | Chill | Daily |
-| --- | --- | --- |
 | 51-68 | Cool | - |
-| --- | --- | --- |
 | 69-86 | Warm | - |
-| --- | --- | --- |
 | 86+ | Hot | Hourly |
-| --- | --- | --- |
 
 Temperate can vary dramatically due to climate, season, and elevation, depending on the campaign world and where scenarios are set. The above table provides a guideline for the effects of extreme temperature on characters.
 
 Wearing suitable clothing permits a character a grace period of their CON in hours before exposure sets in, as shown in the Risk column. After this point they need to seek shelter or start to suffer Fatigue loss. Wet characters shift the Risk Rate one step cooler. Light or moderate gale force winds also shift Risk Rate by one step cooler, whilst strong gales and storms shift it two steps.
-
-8
-
-Classic Fantasy Imperative Version 1.0. 22.11.23 RALEEL
